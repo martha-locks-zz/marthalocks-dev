@@ -6,8 +6,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Sections / Components
 
-- Header / Navbar
-- Main Section
+- Navbar
+- Header
 - About
 - Portfolio
 - Contact
