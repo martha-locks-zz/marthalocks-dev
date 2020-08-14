@@ -127,6 +127,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mlocks-web-development"
+    }
+  },
+  "defaultProject": "mlocks-web-development",
+  "cli": {
+    "analytics": "a307d4c3-edf4-4afd-84b0-5ff732ac058b"
+  }
 }
