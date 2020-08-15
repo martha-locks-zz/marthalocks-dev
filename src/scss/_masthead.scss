@@ -44,3 +44,16 @@ header.masthead {
     }
   }
 }
+
+@media only screen and (max-width: 362px) and (min-width: 319px) {
+  header.masthead {
+    .masthead-content {
+      .masthead-heading {
+        font-size: 3rem;
+      }
+      .masthead-subheading {
+        font-size: 1rem;
+      }
+    }
+  }
+}
