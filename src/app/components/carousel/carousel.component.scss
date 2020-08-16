@@ -21,3 +21,14 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
+ .carousel-indicators li {
+    background-color: #808080;
+}
+
+.carousel-indicators .active {
+    background-color: #000000;
+}
+
+.carousel-captions{
+    color: #000000;
+}
