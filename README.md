@@ -50,4 +50,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # License
 
-Please see the [license agreement](https://https:/github.com/martha-locks/mlocks-web-development/blob/master/LICENSE).
+Please see the [license agreement](https:/github.com/martha-locks/mlocks-web-development/blob/master/LICENSE).
