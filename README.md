@@ -2,6 +2,8 @@
 
 This is my professional personal website marthalocks.dev.
 
+It's deployed on Firebase https://firebase.com.br.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
 ## Sections / Components
