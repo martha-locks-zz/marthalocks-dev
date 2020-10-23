@@ -1,6 +1,6 @@
-# MLocks Web Development
+# Martha Locks Web Development
 
-This project is my professional website.
+This is my professional personal website marthalocks.dev.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
